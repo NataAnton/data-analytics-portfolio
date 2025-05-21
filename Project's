@@ -1,0 +1,16 @@
+data-analytics-portfolio/
+│
+├── customer-support-analysis/
+│   ├── README.md
+│   ├── zendesk_analysis.xlsx (or CSV)
+│   ├── tableau_dashboard.png (screenshot)
+│
+├── sales-data-sql-analysis/
+│   ├── README.md
+│   ├── queries.sql
+│   ├── sales_data.csv
+│
+├── job-market-analysis/
+│   ├── README.md
+│   ├── job_data.csv
+│   ├── job_skills.ipynb
